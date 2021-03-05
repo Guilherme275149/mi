@@ -65,13 +65,13 @@ const { limit } = require('./database/menu/limit*/
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
-const BotName = 'darkbot'; 
+const BotName = 'minatobot'; 
 const instagram = 'http://www.instagram.com/'; 
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:Dark\n' // Nama kamu
-            + 'ORG:Lexa;\n' // Nama bot
+            + 'FN:Minato\n' // Nama kamu
+            + 'ORG:Minatinho;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=5511934488829:+55 1193448-8829\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const ngonsol = JSON.parse(fs.readFileSync('./settings/Miku.json'))
